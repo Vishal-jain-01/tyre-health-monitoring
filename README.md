@@ -1,11 +1,11 @@
 # Tire Classification using MATLAB
 
-This project classifies tire images into categories (e.g., Good, Worn, Damaged) using a pretrained MATLAB model.
+This project classifies tire images into categories (e.g., Good, Defective) using RESNET-18 CNN model.
 
 ## Files
-- `trainedModel.mat` - Trained classification model
-- `TireApp.mlapp` - MATLAB GUI App to upload and predict
-- `predict_script.m` - Standalone script for testing
+- `tyreClassifierModel.mat` - Trained classification model
+- `TyreLife.mlapp` - MATLAB GUI App to upload and predict
+- `Test2.m` - Standalone script for testing
 - `Sample_Images/` - Sample images for testing
 
 ## How to Run
